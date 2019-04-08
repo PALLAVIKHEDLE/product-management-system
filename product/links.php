@@ -1,0 +1,2 @@
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name" style="float:right;">&nbsp;&nbsp;
+	<button onclick="sortTable()"style="float:right;margin-right:10px;margin-top:10px;">Sort</button>
